@@ -1,2 +1,6 @@
 data/
 .venv/
+#Weights & Tuner Logs
+tuning_dir/
+*.h5
+*.keras
