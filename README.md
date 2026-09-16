@@ -1,4 +1,6 @@
 # CMAPSS Turbofan Engine Predictive Maintenance
+<img width="670" height="313" alt="image" src="https://github.com/user-attachments/assets/4096e259-1fab-41a1-910c-d709a37d69f1" />
+
 
 [![Full Report](https://img.shields.io/badge/Read-Full_Report-blue?style=for-the-badge)](https://docs.google.com/document/d/1Ph3JpqJVkxC0YwQQGxh4pQmF-mVVoUSZT4H3Xos56Ek/edit?usp=sharing)
 
